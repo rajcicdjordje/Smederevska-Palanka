@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+<channel>
+<item>
+	<title>Nova pesma o Palanci</title>
+	<link>https://www.youtube.com/watch?v=_TjCLtHAFQ4"</link>
+	<description>Ovo je pesma o rodnom gradu, gradu nekada moćne fabrike GOŠA, nekada gradu rokenrola, gradu u kome su rodjeni mnogi velikani sporta, pozorišta, muzike.</description>
+</item>
+<item>
+	<title>Odrzani Dani Azanjske pogače</title>
+	<link>http://smederevskapalanka.comli.com/azanja.html</link>
+	<description>Održana 19. po redu pogačijada u Azanji.</description>
+</item>
+<item>
+	<title>Dani Stanoja Glavaša</title>
+	<link>http://smederevskapalanka.comli.com/glibovac.html</link>
+	<description>Održana 11. po redu manifestacija nadmetanja za harambašu godine.</description>
+</item>
+<item>
+	<title>Dani Đakove bune</title>
+	<link>http://smederevskapalanka.comli.com/kusadak.html</link>
+	<description>Održani 10. dani Đakove bune u Kusatku.</description>
+</item>
+</channel>
+</rss>

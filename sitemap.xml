@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset>
+
+
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/autor.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/dokumentacija.pdf</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/registracija.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/index.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/palanka.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/glavas.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/galerija.html</loc>
+  <lastmod>2019-03-305T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/glibovac.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/selevac.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/azanja.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/kusadak.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/palanka1.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://smederevska-palanka.eu3.biz/galerija1.html</loc>
+  <lastmod>2019-03-30T11:42:19+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
